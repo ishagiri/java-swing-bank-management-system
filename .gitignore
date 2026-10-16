@@ -1,0 +1,24 @@
+# Compiled class files & build output
+bin/
+*.class
+
+# Local database configuration & credentials (NEVER COMMIT)
+db.properties
+
+# Package files (allow lib dependencies)
+*.jar
+!lib/*.jar
+
+# Log files & crash dumps
+*.log
+*.hprof
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Temporary tool/modernization hooks
+.github/modernize/

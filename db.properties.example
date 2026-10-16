@@ -1,0 +1,5 @@
+# MySQL Database Configuration Template
+# Copy this file to db.properties and update with your local credentials.
+db.url=jdbc:mysql://localhost:3306/bankdb
+db.user=root
+db.password=your_password_here
